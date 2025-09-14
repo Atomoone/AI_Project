@@ -56,4 +56,4 @@ Ejemplo de salida:
 
 Estudiante: Pablo Mora González
 Asignatura: 2025/P Tendencias de Inteligencia Artificial Aplicada (ETVI02/AOL-ELE-ETVI02-C3434 - Ciclo I/V Virtual ELE).
-Actividad: Unidad 3 - Semana 8 - Actividad Formativa GitHub CopilotTarea
+Actividad: Unidad 3 - Semana 8 - Actividad Formativa GitHub Copilot
