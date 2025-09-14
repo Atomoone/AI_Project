@@ -42,28 +42,18 @@ git push origin main
 ▶️ Ejecución
 
 Para probar el sistema de recomendación:
-
 Abre una terminal en la carpeta del proyecto (AI_Project).
 
 Ejecuta:
-
 python recommendation_system.py
 
 
 Ejemplo de salida:
 
-=== Sistema de Recomendación Básico ===
-Recomendaciones para el usuario:
+![alt text](image-4.png)
 
-iPhone 15 Pro: 0.98
-Samsung Galaxy S23: 0.95
-Xiaomi 13: 0.31
-Huawei P60: 0.28
-
-📎 Créditos
+# Créditos
 
 Estudiante: Pablo Mora González
-
 Asignatura: 2025/P Tendencias de Inteligencia Artificial Aplicada (ETVI02/AOL-ELE-ETVI02-C3434 - Ciclo I/V Virtual ELE).
-
 Actividad: Unidad 3 - Semana 8 - Actividad Formativa GitHub CopilotTarea
