@@ -30,10 +30,10 @@ Se pidió a Copilot:
 
 
     Copilot generó el código base mostrado en este repositorio.
-
-    -![alt text](image-2.png)
+ - ![alt text](image-2.png)
 
 5. Commit y Push
+ Con los siguientes comando, dentro de la consola de VS, se actualizan los cambios en el repositorio.
 
 git add .
 git commit -m "Proyecto con GitHub Copilot"
