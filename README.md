@@ -12,11 +12,11 @@ El objetivo es explorar el uso de Copilot y documentar el proceso.
 2. **Creación del repositorio**  
    - Se creó el repositorio llamado `AI_Project`.  
    - Se agregó archivo `README.md`, `.gitignore` y licencia.  
-   - ![alt text](image-1.png)
+   - ![alt text](image-3.png)
 
 3. **Clonación en Visual Studio Code**  
    ```bash
-   git clone https://github.com/Atomoone/AI_Project/AI_Project.git
+   git clone https://github.com/Atomoone/AI_Project
    cd AI_Project
 
 
